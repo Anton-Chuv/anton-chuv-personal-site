@@ -6,4 +6,4 @@ theme: ["PaperMod"]
 
 caches:
   images:
-    dir: :cacheDir/images
+    dir: :cacheDir/images # for github pages
